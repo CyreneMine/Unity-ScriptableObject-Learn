@@ -1,0 +1,2 @@
+# Exclude imported TextMesh Pro assets from GitHub language statistics.
+"Assets/TextMesh Pro/**" linguist-vendored
