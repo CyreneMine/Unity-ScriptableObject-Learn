@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5440162fb4659914faff1353abed60db, type: 3}
+  m_Name: RoleInfo
+  m_EditorClassIdentifier: Assembly-CSharp::RoleInfo
+  roles:
+  - id: 0
+    atk: 11
+    def: 22
+    name: a
+  - id: 1
+    atk: 22
+    def: 11
+    name: b
+  - id: 2
+    atk: 33
+    def: 11
+    name: c
