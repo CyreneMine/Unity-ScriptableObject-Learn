@@ -41,3 +41,6 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Release archives and verification outputs (published as GitHub Release assets)
+/ReleaseArtifacts/
