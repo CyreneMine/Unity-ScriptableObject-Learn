@@ -1,2 +1,5 @@
 # Exclude imported TextMesh Pro assets from GitHub language statistics.
 "Assets/TextMesh Pro/**" linguist-vendored
+
+# Agent-added packaging and verification tools are separate from Unity course code.
+Tools/Release/** linguist-detectable=false
